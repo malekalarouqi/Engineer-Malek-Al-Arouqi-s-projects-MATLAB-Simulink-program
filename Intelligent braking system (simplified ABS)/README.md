@@ -1,4 +1,4 @@
-Intelligent Anti-lock Braking System (ABS) Simulation using MATLAB/Simulink
+**Intelligent Anti-lock Braking System (ABS) Simulation using MATLAB/Simulink**
 
 **Project Overview**
 This project presents the design and simulation of an Intelligent Anti-lock Braking System (ABS) developed using MATLAB/Simulink based on a simplified quarter vehicle dynamic model. The main objective of the system is to prevent wheel lock during sudden braking while maintaining vehicle stability, steering capability, and reducing stopping distance.
